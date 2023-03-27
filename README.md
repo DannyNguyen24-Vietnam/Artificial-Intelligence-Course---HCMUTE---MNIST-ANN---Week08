@@ -1,0 +1,2 @@
+# Artificial-Intelligence-Course---HCMUTE---MNIST-ANN---Week08
+MNIST containing 70000 samples of hand-written digits, provides beginners an intuitive way to get started with classification task on images. This dataset contains only gray-scaled images that only have 1 channel of color. In this notebook, I will show you how to train an ANN model and predict this MNIST dataset and even try with my own digits
